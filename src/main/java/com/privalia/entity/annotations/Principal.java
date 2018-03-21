@@ -6,7 +6,6 @@ public class Principal {
 	
 	public static void main(String[] args) {
 		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
-		
 		context.scan("com.privalia.entity.annotations");
 		context.refresh();
 		Student student = (Student) context.getBean("student");
