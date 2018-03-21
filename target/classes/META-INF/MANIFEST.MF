@@ -1,5 +1,14 @@
 Manifest-Version: 1.0
 Built-By: xavier.ribas
+Class-Path: dependency-jats/spring-core-4.3.14.RELEASE.jar dependency-
+ jats/commons-logging-1.2.jar dependency-jats/spring-context-4.3.14.RE
+ LEASE.jar dependency-jats/spring-beans-4.3.14.RELEASE.jar dependency-
+ jats/spring-aop-4.3.14.RELEASE.jar dependency-jats/spring-expression-
+ 4.3.14.RELEASE.jar dependency-jats/cglib-2.2.jar dependency-jats/asm-
+ 3.1.jar dependency-jats/slf4j-api-1.7.25.jar dependency-jats/slf4j-lo
+ g4j12-1.7.25.jar dependency-jats/log4j-1.2.16.jar dependency-jats/asp
+ ectjweaver-1.6.11.jar
 Build-Jdk: 1.8.0_131
 Created-By: Maven Integration for Eclipse
+Main-Class: com.privalia-presentation.Principal
 
