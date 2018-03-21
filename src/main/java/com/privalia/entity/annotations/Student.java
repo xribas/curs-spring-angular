@@ -34,6 +34,7 @@ public class Student {
 	@Getter	@Setter	private int age;
 
 	@Autowired
+	@Value("#{address}")
 	@Getter
 	@Setter
 	private Address address;
